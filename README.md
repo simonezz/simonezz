@@ -1,9 +1,8 @@
 ### Hello World 👋
 
 
-- 🔭 I’m currently working on computer vision and natural language processing
-- 🌱 I’m currently learning GNN
-- 🤔 I’m looking for help with domain adaptation in BERT
+- 🔭 I’m currently working on computer vision, natural language processing
+- 🌱 I’m currently learning many things!
 - 💬 Ask me about anything!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saeheejeon25@gmail.com)](mailto:saeheejeon25@gmail.com)
