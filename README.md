@@ -1,7 +1,6 @@
 ### Hello World 👋
 
 
-- 🔭 I’m currently working on computer vision, natural language processing
 - 🌱 I’m currently learning many things! (especially, Multi-modal)
 - 💬 Ask me about anything!
 
